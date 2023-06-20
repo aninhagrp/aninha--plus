@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #6de9d2;
-    --cinza-secundario: #e9e98f;
-    --botao-azul: #ab4bd7;
+    --branco-principal: #91efda;
+    --cinza-secundario: #ecbff0;
+    --botao-azul: #d291f0;
     --cor-de-fundo: hsl(170, 100%, 2%);
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #e73cfa;
+    --botao-azul-efeito: #9dd7cc;
 }
 
 body {
@@ -21,11 +21,11 @@ body {
 }
 
 .principal {
-    background-image: url("fundo-gradiente-desfocado-na-cor-rosa_58702-1640.avif");
+    background-image: url("paisagem-do-planeta-alienigena-dos-desenhos-animados-com-cristais-de-neon_107791-20474.avif");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
-    text-align: center;
+    text-align: 10;
 }
 
 .container {
